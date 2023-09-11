@@ -1,0 +1,1 @@
+{"version":3,"file":"create-wishlist.dto.js","sourceRoot":"","sources":["../../../src/wishlists/dto/create-wishlist.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAAyD;AAEzD,MAAa,iBAAiB;CAY7B;AAXC;IAAC,IAAA,wBAAM,EAAC,CAAC,EAAE,GAAG,CAAC;;+CACF;AAEb;IAAC,IAAA,wBAAM,EAAC,CAAC,EAAE,IAAI,CAAC;;sDACI;AAEpB;IAAC,IAAA,uBAAK,GAAE;;gDACM;AAEd;IAAC,IAAA,yBAAO,GAAE;;kDACQ;AAXpB,8CAYC"}

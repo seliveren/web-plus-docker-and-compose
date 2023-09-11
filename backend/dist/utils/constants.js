@@ -1,0 +1,20 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.emailAlreadyExists = exports.usernameAlreadyExists = exports.userNotFound = exports.noMoreOffers = exports.offerNotAllowed = exports.offerNotFound = exports.offersNotFound = exports.wishlistDeletionNotAllowed = exports.wishlistEditNotAllowed = exports.wishlistNotFound = exports.wishlistsNotFound = exports.wishDeletionNotAllowed = exports.wishEditNotAllowed = exports.priceEditAfterOffersNotAllowed = exports.wishesNotFound = exports.wishNotFound = void 0;
+exports.wishNotFound = 'Такого подарка не существует!';
+exports.wishesNotFound = 'Подарков нет!';
+exports.priceEditAfterOffersNotAllowed = 'Нельзя редактировать цену подарков, когда уже есть взносы!';
+exports.wishEditNotAllowed = 'Нельзя редактировать чужие подарки!';
+exports.wishDeletionNotAllowed = 'Нельзя удалять чужие подарки!';
+exports.wishlistsNotFound = 'Вишлистов нет!';
+exports.wishlistNotFound = 'Такого вишлиста не существует!';
+exports.wishlistEditNotAllowed = 'Нельзя редактировать чужие вишлисты!';
+exports.wishlistDeletionNotAllowed = 'Нельзя удалять чужие вишлисты!';
+exports.offersNotFound = 'Заявок нет!';
+exports.offerNotFound = 'Такой заявки не существует!';
+exports.offerNotAllowed = 'Нельзя скидываться на свой же подарок!';
+exports.noMoreOffers = 'Сумма взноса превышает требуемую сумму!';
+exports.userNotFound = 'Такого пользователя не существует!';
+exports.usernameAlreadyExists = 'Такой username уже существует!';
+exports.emailAlreadyExists = 'Такой email уже существует!';
+//# sourceMappingURL=constants.js.map
